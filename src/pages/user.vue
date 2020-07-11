@@ -121,17 +121,15 @@ export default {
   width: 100%;
 }
 .header .user-box {
-  width: 1.14rem;
+    /* width: 3.14rem; */
   font-size: 0.25rem;
   color: #fff;
   margin: 0 auto;
   margin-top: 0.2rem;
+  text-align: center;
 }
 .user-box a {
   color: #fff;
-}
-.header ul {
-  margin-top: 0.4rem;
 }
 .header ul li {
   width: 50%;
